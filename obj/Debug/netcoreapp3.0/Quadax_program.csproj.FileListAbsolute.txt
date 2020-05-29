@@ -1,0 +1,11 @@
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\obj\Debug\netcoreapp3.0\Quadax_program.AssemblyInfoInputs.cache
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\obj\Debug\netcoreapp3.0\Quadax_program.AssemblyInfo.cs
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\bin\Debug\netcoreapp3.0\Quadax_program.exe
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\bin\Debug\netcoreapp3.0\Quadax_program.deps.json
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\bin\Debug\netcoreapp3.0\Quadax_program.runtimeconfig.json
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\bin\Debug\netcoreapp3.0\Quadax_program.runtimeconfig.dev.json
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\bin\Debug\netcoreapp3.0\Quadax_program.dll
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\bin\Debug\netcoreapp3.0\Quadax_program.pdb
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\obj\Debug\netcoreapp3.0\Quadax_program.dll
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\obj\Debug\netcoreapp3.0\Quadax_program.pdb
+C:\Users\ricka\Source\Repos\Quadax_program\Quadax_program\obj\Debug\netcoreapp3.0\Quadax_program.csprojAssemblyReference.cache

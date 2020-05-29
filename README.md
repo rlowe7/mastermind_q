@@ -1,2 +1,0 @@
-# mastermind_q
-game
